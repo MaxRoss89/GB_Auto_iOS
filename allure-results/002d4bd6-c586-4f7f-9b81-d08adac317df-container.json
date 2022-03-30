@@ -1,0 +1,1 @@
+{"uuid":"002d4bd6-c586-4f7f-9b81-d08adac317df","name":"ru.gb.tests.main.CheckFailScreenshotTest","children":["768c9a8f-d4cf-4268-83ca-873eee9b828b"],"befores":[],"afters":[{"name":"setDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648643934692,"stop":1648643935139}],"start":1648643925063,"stop":1648643943285}

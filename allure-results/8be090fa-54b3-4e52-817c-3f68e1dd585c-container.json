@@ -1,0 +1,1 @@
+{"uuid":"8be090fa-54b3-4e52-817c-3f68e1dd585c","name":"ru.gb.tests.forms.CheckSwitchOn","children":["49bc07b5-f146-467f-a413-81d243df5d89"],"befores":[],"afters":[{"name":"setDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648643878500,"stop":1648643878783}],"start":1648643869502,"stop":1648643878794}
